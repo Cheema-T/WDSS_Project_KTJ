@@ -2,7 +2,7 @@
 Group Project submitted by Joy Martin and Tehreem Cheema for the KTJ website for the Web Development Server Side Project.
 
 Sources:
-We created our project using the help of tutorials/example code provided from the Web Development module. We used some images from the web such as the book covers (Harry Potter, Pride and Prejudice) from Google, as well as the book image also from Google. 
+We created our project using the help of tutorials/example code provided from the Web Development module. We used some images from the web such as the book covers (Harry Potter (www.bloomsbury.com/ca/harry-potter-and-the-philosophers-stone-9781408855652/), Pride and Prejudice (https://www.easons.com/pride-and-prejudice-jane-austen-9780141439518)) from Google, as well as the book image also from Google. 
 
 Contribution Statement:
 Our team members for this project included Joy Martin (B00153218),Tehreem Cheema (B00159780) and Ken Nguyen (B00). We used OneDrive for version control. 
