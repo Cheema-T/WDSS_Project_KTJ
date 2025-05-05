@@ -1,0 +1,106 @@
+/* background */
+body {
+    background-color: rgb(204, 168, 113);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+
+/* footer */
+.footer {
+    text-align: center;
+    padding: 1px 0;
+    background-color: #744001;
+    color: #fff;
+    margin-top: auto; 
+}
+
+
+/* navbar */
+.navbar ul{
+    list-style-type: none;
+    background-color: #744001;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: #472700;
+}
+
+.navbar li{
+    float: left;
+}
+
+
+/* logo */
+.logo1{
+    height: 20px;
+    width: 40px;
+}
+
+/* Text */
+.revtext{
+    text-align: center;
+    color: #fff;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    color: #472700;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    color: #744001;
+}
+
+h2{
+    text-align: center;
+}
+
+
+/* review form */
+.review-form {
+    text-align: center;
+    background-color: #744001;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.review-form input, .review-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #744001;
+    border-radius: 5px;
+}
+
+.review-form button {
+    background-color: rgb(204, 168, 113);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.review-form button:hover {
+    background-color: #472700;
+}
